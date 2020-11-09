@@ -1,0 +1,7 @@
+CREATE TABLE [dbo].[ExerciseResults]
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [StudentName] NCHAR(100) NOT NULL, 
+    [StudentIndex] NCHAR(20) NOT NULL, 
+    [Points] INT NOT NULL
+)
