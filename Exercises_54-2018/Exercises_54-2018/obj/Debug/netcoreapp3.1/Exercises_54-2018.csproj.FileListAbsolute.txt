@@ -9,7 +9,14 @@ D:\Documents\Exercises_54-2018\Exercises_54-2018\Exercises_54-2018\obj\Debug\net
 D:\Documents\Exercises_54-2018\Exercises_54-2018\Exercises_54-2018\obj\Debug\netcoreapp3.1\Exercises_54-2018.csproj.GenerateResource.cache
 D:\Documents\Exercises_54-2018\Exercises_54-2018\Exercises_54-2018\obj\Debug\netcoreapp3.1\Exercises_54-2018.AssemblyInfoInputs.cache
 D:\Documents\Exercises_54-2018\Exercises_54-2018\Exercises_54-2018\obj\Debug\netcoreapp3.1\Exercises_54-2018.AssemblyInfo.cs
-D:\Documents\Exercises_54-2018\Exercises_54-2018\Exercises_54-2018\obj\Debug\netcoreapp3.1\Exercises_54-2018.csproj.CoreCompileInputs.cache
 D:\Documents\Exercises_54-2018\Exercises_54-2018\Exercises_54-2018\obj\Debug\netcoreapp3.1\Exercises_54-2018.dll
 D:\Documents\Exercises_54-2018\Exercises_54-2018\Exercises_54-2018\obj\Debug\netcoreapp3.1\Exercises_54-2018.pdb
 D:\Documents\Exercises_54-2018\Exercises_54-2018\Exercises_54-2018\obj\Debug\netcoreapp3.1\Exercises_54-2018.genruntimeconfig.cache
+D:\Documents\Exercises_54-2018\Exercises_54-2018\Exercises_54-2018\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Documents\Exercises_54-2018\Exercises_54-2018\Exercises_54-2018\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Documents\Exercises_54-2018\Exercises_54-2018\Exercises_54-2018\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Documents\Exercises_54-2018\Exercises_54-2018\Exercises_54-2018\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Documents\Exercises_54-2018\Exercises_54-2018\Exercises_54-2018\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\Exercises_54-2018\Exercises_54-2018\Exercises_54-2018\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\Exercises_54-2018\Exercises_54-2018\Exercises_54-2018\obj\Debug\netcoreapp3.1\Exercises_54-2018.csproj.CoreCompileInputs.cache
+D:\Documents\Exercises_54-2018\Exercises_54-2018\Exercises_54-2018\obj\Debug\netcoreapp3.1\Exercises_54-2018.csproj.CopyComplete
